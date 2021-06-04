@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Otus.Teaching.Linq.ATM.DataAcces</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Otus.Teaching.Linq.ATM.Core\Otus.Teaching.Linq.ATM.Core.csproj" />
+    </ItemGroup>
+
+</Project>

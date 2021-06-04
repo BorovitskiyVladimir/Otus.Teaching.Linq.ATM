@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Teaching.Linq.ATM.Console", "Otus.Teaching.Linq.ATM.Console\Otus.Teaching.Linq.ATM.Console.csproj", "{6A48BF8D-889C-4761-A6C7-6F97A8224B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Teaching.Linq.ATM.Core", "Otus.Teaching.Linq.ATM.Core\Otus.Teaching.Linq.ATM.Core.csproj", "{B6F86072-A75F-4A15-AF97-95DE6B411D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Teaching.Linq.ATM.DataAccess", "Otus.Teaching.Linq.ATM.DataAccess\Otus.Teaching.Linq.ATM.DataAccess.csproj", "{A2B2B107-4CB3-449E-A82D-3F4E268ABA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A48BF8D-889C-4761-A6C7-6F97A8224B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A48BF8D-889C-4761-A6C7-6F97A8224B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A48BF8D-889C-4761-A6C7-6F97A8224B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A48BF8D-889C-4761-A6C7-6F97A8224B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F86072-A75F-4A15-AF97-95DE6B411D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F86072-A75F-4A15-AF97-95DE6B411D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F86072-A75F-4A15-AF97-95DE6B411D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F86072-A75F-4A15-AF97-95DE6B411D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B2B107-4CB3-449E-A82D-3F4E268ABA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B2B107-4CB3-449E-A82D-3F4E268ABA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B2B107-4CB3-449E-A82D-3F4E268ABA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B2B107-4CB3-449E-A82D-3F4E268ABA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
